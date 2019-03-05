@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Analytics, Numbers, "
+title                    : "Hard Hitting Stats, Pretty Graphs and more..."
 title_separator          : "-"
 name                     : "Peter Yushun Li"
 description              : "Data Science Portfolio"
@@ -107,17 +107,17 @@ analytics:
 # Site Author
 author:
   name             : "Peter Yushun Li"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/yushunli2013.github.io/pro_pic.jpg"
   bio              : "Data Science Portfolio"
   location         : "San Francisco, CA"
-  email            :
+  email            : "peteryushunli@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+      # url: mailto:peteryushunli@gmail.com
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://www.linkedin.com/in/peteryushunli/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
