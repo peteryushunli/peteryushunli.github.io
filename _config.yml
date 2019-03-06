@@ -110,7 +110,7 @@ author:
   avatar           : "/images/pro_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NBA nerd, Hip-Hop music connoisseur, and graduate student in Analytics pursuing a Data Science-related role"
   location         : "San Francisco, CA"
-  email            :
+  email            : "pysli@ucdavis.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
