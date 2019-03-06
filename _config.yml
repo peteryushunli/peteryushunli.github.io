@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Peter Li"
-  avatar           : "/images/pro-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/pro_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NBA nerd, Hip-Hop music connoisseur, and graduate student in Analytics pursuing a Data Science-related role"
   location         : "San Francisco, CA"
   email            :
