@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
+# which you are expected to set up once and rarely need to edit after that. 
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
@@ -16,20 +16,20 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Storytelling through Analytics"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Peter Yushun Li"
+description              : "Data Science Portfolio"
+url                      : "https://github.com/yushunli2013" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "/yushunli2013.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/images/chicago-banner.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -106,18 +106,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Peter Yushun Li"
+  avatar           : "/images/pro_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Science Graduate Student, NBA Nerd & Hip-Hop Connoisseur"
+  location         : "San Francisco, CA"
+  email            : "peteryushunli@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+      # url: mailto:peteryushunli@gmail.com
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://www.linkedin.com/in/peteryushunli/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/yushunli2013"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/yushunli2013"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -293,3 +293,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+    path: ""
+    type: pages
+    values: 
+      layout: single
+      author_profile: true
