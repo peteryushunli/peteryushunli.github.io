@@ -108,16 +108,16 @@ analytics:
 author:
   name             : "Peter Li"
   avatar           : "/images/pro_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NBA nerd, Hip-Hop music connoisseur, and graduate student in Analytics pursuing a Data Science-related role"
+  bio              : "NBA nerd, Hip-Hop head, and aspiring Data Scientist"
   location         : "San Francisco, CA"
   email            : "pysli@ucdavis.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:pysli@ucdavis.edu
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://linkedin.com/yushunli2013"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
